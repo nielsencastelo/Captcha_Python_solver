@@ -74,7 +74,7 @@ print('Captchar: ',captchar_result)
 
 tempo = 3
 
-numero_contribuinte = '1201980031-3'
+numero_contribuinte = '112314220031-3'
 time.sleep(tempo)
 driver.find_element_by_id('txtNumeroContribuinte').clear()
 
